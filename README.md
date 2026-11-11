@@ -1,65 +1,164 @@
-# Arturo Fierro Pardo
+<p align="center">
+  <a href="https://www.linkedin.com/in/arturo-fierro-pardo/"><img src="https://img.shields.io/badge/LinkedIn-arturo--fierro--pardo-2F81F7?style=flat-square&labelColor=0D1117&logo=linkedin&logoColor=white" /></a>
+  <a href="https://huggingface.co/arturofierrop"><img src="https://img.shields.io/badge/Hugging%20Face-arturofierrop-E3B341?style=flat-square&labelColor=0D1117&logo=huggingface&logoColor=E3B341" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.telecoslm.app"><img src="https://img.shields.io/badge/Google%20Play-Teleco%20SLM-3DDC84?style=flat-square&labelColor=0D1117&logo=google-play&logoColor=3DDC84" /></a>
+  <a href="mailto:arturofierrop25@gmail.com"><img src="https://img.shields.io/badge/Email-arturofierrop25-8B949E?style=flat-square&labelColor=0D1117&logo=gmail&logoColor=8B949E" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-fierro-pardo/)
+<!-- ══════════════════════════ ESPAÑOL ══════════════════════════ -->
 
 <details open>
-<summary><b>Español</b></summary>
+<summary><b>🇪🇸 &nbsp;Español</b></summary>
+<br />
 
-Ingeniero de Sistemas de Telecomunicación que construye y evalúa modelos de lenguaje. Actualmente curso el Máster en Tecnologías Financieras en ICAI (Universidad Pontificia Comillas), en la intersección entre IA aplicada y finanzas.
+<p align="center">
+  <img src="assets/header-es.svg" alt="Arturo Fierro Pardo" width="100%" />
+</p>
 
-**Ahora mismo:** fine-tuning y evaluación comparativa de modelos de lenguaje pequeños · construcción de pipelines de datos en AWS · preparando la certificación AWS Certified Data Engineer.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=21&duration=3400&pause=900&color=2F81F7&center=true&vCenter=true&width=680&height=46&lines=fine-tuning+y+evaluaci%C3%B3n+de+modelos+de+lenguaje;pipelines+de+datos+en+AWS;donde+la+ingenier%C3%ADa+se+cruza+con+las+finanzas" alt="" />
+</p>
 
-### TelecoSLM — un modelo de lenguaje de dominio específico que funciona sin conexión en un móvil
+- 🎓 **Ingeniería de Sistemas de Telecomunicación** — Universidad CEU San Pablo, con un semestre Erasmus en el Politecnico di Milano.
+- 🏦 Cursando el **Máster en Tecnologías Financieras** en ICAI (Universidad Pontificia Comillas), en la intersección entre IA aplicada y finanzas.
+- 🧠 **Ahora mismo:** fine-tuning y evaluación comparativa de modelos de lenguaje pequeños · pipelines de datos en AWS · preparando la certificación AWS Certified Data Engineer.
+- 💼 Pasé por **Technology Consulting en PwC España**: due diligence tecnológica de una entidad financiera, automatización documental y plan de adopción de IA para un grupo multinacional.
 
-[![TelecoSLM](https://img.shields.io/badge/TelecoSLM-Repositorio-181717?logo=github&logoColor=white)](https://github.com/ArturoFierroPardo/TelecoSLM) · [![Google Play](https://img.shields.io/badge/Google%20Play-Teleco%20SLM-success?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.telecoslm.app) · [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Qwen3%201.7B%20Teleco%20GGUF-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/arturofierrop/qwen-3-1.7B-teleco-slm-GGUF)
+### 🛰️ TelecoSLM
 
-- **Fine-tuning:** LoRA sobre Qwen 3 1.7B con un corpus propio de telecomunicaciones en español — ROUGE-L de 0,159 a 0,286 y BERTScore 0,895.
-- **Evaluación comparativa:** LLM, SLM y Mini-SLM medidos en WebNLG, ToTTo y KELM. La diferencia de ROUGE-L entre el mejor LLM y el mejor SLM es de 0,005 a 0,012, respaldada por tests de Friedman, Nemenyi y Wilcoxon.
-- **Desplegado:** cuantización Q4_K_M GGUF (1,1 GB), 9,6 tokens/s en CPU de portátil, app en Flutter publicada en Google Play y modelo liberado en Hugging Face bajo licencia MIT.
-- **Validado:** beta de 14 días con 12 usuarios — entre 4,1 y 4,7 sobre 5, y un 88% lo recomendaría.
+*Un modelo de lenguaje de dominio específico que funciona sin conexión en un móvil.*
 
-Trabajo de Fin de Grado, 10/10 con Matrícula de Honor. Finalista en los Premios Mondragon: entre los 10 mejores de unos 400 trabajos al mejor proyecto en transformación digital.
+<a href="https://github.com/ArturoFierroPardo/TelecoSLM"><img src="https://img.shields.io/badge/Código-GitHub-E6EDF3?style=flat-square&labelColor=0D1117&logo=github" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.telecoslm.app"><img src="https://img.shields.io/badge/App-Google%20Play-3DDC84?style=flat-square&labelColor=0D1117&logo=google-play&logoColor=3DDC84" /></a>
+<a href="https://huggingface.co/arturofierrop/qwen-3-1.7B-teleco-slm-GGUF"><img src="https://img.shields.io/badge/Modelo-Qwen3%201.7B%20GGUF-E3B341?style=flat-square&labelColor=0D1117&logo=huggingface&logoColor=E3B341" /></a>
 
-### Stack
+|  | Resultado |
+|---|---|
+| **Fine-tuning** | LoRA sobre Qwen 3 1.7B con un corpus propio de telecomunicaciones en español — ROUGE-L de 0,159 → **0,286**, BERTScore **0,895** |
+| **Evaluación comparativa** | LLM, SLM y Mini-SLM sobre WebNLG, ToTTo y KELM — la diferencia de ROUGE-L entre el mejor LLM y el mejor SLM es de **0,005 a 0,012**, respaldada por tests de Friedman, Nemenyi y Wilcoxon |
+| **Despliegue** | Cuantización Q4_K_M GGUF (**1,1 GB**), **9,6 tokens/s** en CPU de portátil, app en Flutter en Google Play y modelo liberado en Hugging Face bajo licencia MIT |
+| **Validación** | Beta de 14 días con 12 usuarios — entre **4,1 y 4,7 sobre 5**, y un **88 %** lo recomendaría |
 
-`Python` `SQL` `PyTorch` `Hugging Face` `LoRA` `llama.cpp` `Flutter / Dart` `AWS` `Git` `Linux`
+> Trabajo de Fin de Grado, **10/10 con Matrícula de Honor**. Finalista en los **Premios Mondragon**: entre los 10 mejores de unos 400 trabajos al mejor proyecto en transformación digital.
 
-### Trayectoria
+### 🧪 En qué ando
 
-- **Máster en Tecnologías Financieras** — ICAI, Universidad Pontificia Comillas (2026–2027)
-- **Grado en Ingeniería de Sistemas de Telecomunicación** — Universidad CEU San Pablo, con un semestre Erasmus en el Politecnico di Milano
-- **Prácticas en Technology Consulting** — PwC España: due diligence tecnológica de una entidad financiera, automatización documental y plan de adopción de IA para un grupo multinacional
-- **Certificaciones:** AWS Certified Data Engineer – Associate (enero 2027) · CFA Nivel I (mayo 2027) · Microsoft Azure Fundamentals
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| **Monitor de la banca europea** | Pipeline de datos end-to-end en AWS, ingesta diaria y capa analítica | `AWS` `Python` `SQL` |
+| **TelecoSLM** | Modelo de dominio específico, cuantizado y publicado | `PyTorch` `LoRA` `llama.cpp` `Flutter` |
+
+### 🧰 Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/llama.cpp-0D1117?style=flat-square&logo=meta&logoColor=0467DF" />
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" />
+</p>
+
+### 📜 Trayectoria
+
+- **Máster en Tecnologías Financieras** — ICAI, Universidad Pontificia Comillas · 2026–2027
+- **Grado en Ingeniería de Sistemas de Telecomunicación** — Universidad CEU San Pablo · Erasmus en el Politecnico di Milano
+- **Prácticas en Technology Consulting** — PwC España
+- **Certificaciones** — AWS Certified Data Engineer – Associate *(ene. 2027)* · CFA Nivel I *(may. 2027)* · Microsoft Azure Fundamentals
+
+<br />
 
 </details>
 
+<!-- ══════════════════════════ ENGLISH ══════════════════════════ -->
+
 <details>
-<summary><b>English</b></summary>
+<summary><b>🇬🇧 &nbsp;English</b></summary>
+<br />
 
-Telecommunications System engineer who builds and evaluates language models. Currently on the MSc in Financial Technologies at ICAI (Universidad Pontificia Comillas), working at the intersection of applied AI and finance.
+<p align="center">
+  <img src="assets/header-en.svg" alt="Arturo Fierro Pardo" width="100%" />
+</p>
 
-**Currently:** fine-tuning and benchmarking small language models · building data pipelines on AWS · preparing AWS Certified Data Engineer.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=21&duration=3400&pause=900&color=2F81F7&center=true&vCenter=true&width=680&height=46&lines=fine-tuning+and+benchmarking+language+models;data+pipelines+on+AWS;where+engineering+meets+finance" alt="" />
+</p>
 
-### TelecoSLM — a domain-specific language model that runs offline on a phone
+- 🎓 **BSc in Telecommunication Systems Engineering** — Universidad CEU San Pablo, with an Erasmus semester at Politecnico di Milano.
+- 🏦 Currently on the **MSc in Financial Technologies** at ICAI (Universidad Pontificia Comillas), working at the intersection of applied AI and finance.
+- 🧠 **Currently:** fine-tuning and benchmarking small language models · data pipelines on AWS · preparing AWS Certified Data Engineer.
+- 💼 Former **Technology Consulting intern at PwC Spain**: technology due diligence for a financial institution, document automation, and an AI adoption plan for a multinational group.
 
-[![TelecoSLM](https://img.shields.io/badge/TelecoSLM-Repository-181717?logo=github&logoColor=white)](https://github.com/ArturoFierroPardo/TelecoSLM) · [![Google Play](https://img.shields.io/badge/Google%20Play-Teleco%20SLM-success?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.telecoslm.app) · [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Qwen3%201.7B%20Teleco%20GGUF-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/arturofierrop/qwen-3-1.7B-teleco-slm-GGUF)
+### 🛰️ TelecoSLM
 
-- **Fine-tuning:** LoRA on Qwen 3 1.7B over a purpose-built Spanish telecoms corpus — ROUGE-L from 0.159 to 0.286, BERTScore 0.895.
-- **Benchmarking:** compared LLMs, SLMs and Mini-SLMs on WebNLG, ToTTo and KELM. The ROUGE-L gap between the best LLM and the best SLM is 0.005–0.012, backed by Friedman, Nemenyi and Wilcoxon tests.
-- **Shipped:** Q4_K_M GGUF quantisation (1.1 GB), 9.6 tokens/s on a laptop CPU, Flutter app published on Google Play, model released on Hugging Face under MIT.
-- **Validated:** 14-day beta with 12 users — 4.1 to 4.7 out of 5, 88% would recommend it.
+*A domain-specific language model that runs offline on a phone.*
 
-Final Degree Project, graded 10/10 with distinction. Finalist at the Mondragon Awards — top 10 of around 400 entries for best final project in digital transformation.
+<a href="https://github.com/ArturoFierroPardo/TelecoSLM"><img src="https://img.shields.io/badge/Code-GitHub-E6EDF3?style=flat-square&labelColor=0D1117&logo=github" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.telecoslm.app"><img src="https://img.shields.io/badge/App-Google%20Play-3DDC84?style=flat-square&labelColor=0D1117&logo=google-play&logoColor=3DDC84" /></a>
+<a href="https://huggingface.co/arturofierrop/qwen-3-1.7B-teleco-slm-GGUF"><img src="https://img.shields.io/badge/Model-Qwen3%201.7B%20GGUF-E3B341?style=flat-square&labelColor=0D1117&logo=huggingface&logoColor=E3B341" /></a>
 
-### Stack
+|  | Result |
+|---|---|
+| **Fine-tuning** | LoRA on Qwen 3 1.7B over a purpose-built Spanish telecoms corpus — ROUGE-L from 0.159 → **0.286**, BERTScore **0.895** |
+| **Benchmarking** | LLMs, SLMs and Mini-SLMs on WebNLG, ToTTo and KELM — the ROUGE-L gap between the best LLM and the best SLM is **0.005–0.012**, backed by Friedman, Nemenyi and Wilcoxon tests |
+| **Shipped** | Q4_K_M GGUF quantisation (**1.1 GB**), **9.6 tokens/s** on a laptop CPU, Flutter app published on Google Play, model released on Hugging Face under MIT |
+| **Validated** | 14-day beta with 12 users — **4.1 to 4.7 out of 5**, **88 %** would recommend it |
 
-`Python` `SQL` `PyTorch` `Hugging Face` `LoRA` `llama.cpp` `Flutter / Dart` `AWS` `Git` `Linux`
+> Final Degree Project, graded **10/10 with distinction**. Finalist at the **Mondragon Awards** — top 10 of around 400 entries for best final project in digital transformation.
 
-### Background
+### 🧪 What I'm working on
 
-- **MSc in Financial Technologies** — ICAI, Universidad Pontificia Comillas (2026–2027)
-- **BSc in Telecommunication Systems Engineering** — Universidad CEU San Pablo, with an Erasmus semester at Politecnico di Milano
-- **Technology Consulting intern** — PwC Spain: technology due diligence for a financial institution, document automation, and an AI adoption plan for a multinational group
-- **Certifications:** AWS Certified Data Engineer – Associate (Jan 2027) · CFA Level I (May 2027) · Microsoft Azure Fundamentals
+| Project | What it is | Stack |
+|---|---|---|
+| **European banking monitor** | End-to-end data pipeline on AWS, daily ingestion and analytics layer | `AWS` `Python` `SQL` |
+| **TelecoSLM** | Domain-specific model, quantised and shipped | `PyTorch` `LoRA` `llama.cpp` `Flutter` |
+
+### 🧰 Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/llama.cpp-0D1117?style=flat-square&logo=meta&logoColor=0467DF" />
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" />
+</p>
+
+### 📜 Background
+
+- **MSc in Financial Technologies** — ICAI, Universidad Pontificia Comillas · 2026–2027
+- **BSc in Telecommunication Systems Engineering** — Universidad CEU San Pablo · Erasmus at Politecnico di Milano
+- **Technology Consulting intern** — PwC Spain
+- **Certifications** — AWS Certified Data Engineer – Associate *(Jan 2027)* · CFA Level I *(May 2027)* · Microsoft Azure Fundamentals
+
+<br />
+
+</details>
+
+<!-- ══════════════════════════ STATS ══════════════════════════ -->
+
+<details>
+<summary><b>📈 &nbsp;Stats</b></summary>
+<br />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArturoFierroPardo&theme=github_dark" width="92%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArturoFierroPardo&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArturoFierroPardo&theme=github_dark" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArturoFierroPardo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=E3B341&text_color=8B949E" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoFierroPardo&layout=compact&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=8B949E" width="45%" />
+</p>
 
 </details>
