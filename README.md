@@ -17,7 +17,7 @@ Telecommunications engineer who builds and evaluates language models. Currently 
 - **Shipped:** Q4_K_M GGUF quantisation (1.1 GB), 9.6 tokens/s on a laptop CPU, Flutter app published on Google Play, model released on Hugging Face under MIT.
 - **Validated:** 14-day beta with 12 users — 4.1 to 4.7 out of 5, 88% would recommend it.
 
-Final Degree Project, graded 10/10 with distinction. Finalist at the Mondragón Awards — top 10 of around 400 entries for best final project in digital transformation.
+Final Degree Project, graded 10/10 with distinction. Finalist at the Mondragon Awards — top 10 of around 400 entries for best final project in digital transformation.
 
 ---
 
