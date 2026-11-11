@@ -5,7 +5,8 @@
 <details open>
 <summary><b>English</b></summary>
 
-Telecommunications engineer who builds and evaluates language models. Currently on the MSc in Financial Technologies at ICAI (Universidad Pontificia Comillas), working at the intersection of applied AI and finance.
+
+Telecommunications System engineer who builds and evaluates language models. Currently on the MSc in Financial Technologies at ICAI (Universidad Pontificia Comillas), working at the intersection of applied AI and finance.
 
 **Currently:** fine-tuning and benchmarking small language models · building data pipelines on AWS · preparing AWS Certified Data Engineer.
 
@@ -36,7 +37,8 @@ Final Degree Project, graded 10/10 with distinction. Finalist at the Mondragon A
 <details>
 <summary><b>Español</b></summary>
 
-Ingeniero de telecomunicaciones que construye y evalúa modelos de lenguaje. Actualmente curso el Máster en Tecnologías Financieras en ICAI (Universidad Pontificia Comillas), en la intersección entre IA aplicada y finanzas.
+
+Ingeniero de Sistemas de Telecomunicación que construye y evalúa modelos de lenguaje. Actualmente curso el Máster en Tecnologías Financieras en ICAI (Universidad Pontificia Comillas), en la intersección entre IA aplicada y finanzas.
 
 **Ahora mismo:** fine-tuning y evaluación comparativa de modelos de lenguaje pequeños · construcción de pipelines de datos en AWS · preparando la certificación AWS Certified Data Engineer.
 
@@ -49,7 +51,7 @@ Ingeniero de telecomunicaciones que construye y evalúa modelos de lenguaje. Act
 - **Desplegado:** cuantización Q4_K_M GGUF (1,1 GB), 9,6 tokens/s en CPU de portátil, app en Flutter publicada en Google Play y modelo liberado en Hugging Face bajo licencia MIT.
 - **Validado:** beta de 14 días con 12 usuarios — entre 4,1 y 4,7 sobre 5, y un 88% lo recomendaría.
 
-Trabajo de Fin de Grado, 10/10 con Matrícula de Honor. Finalista en los Premios Mondragón: entre los 10 mejores de unos 400 trabajos al mejor proyecto en transformación digital.
+Trabajo de Fin de Grado, 10/10 con Matrícula de Honor. Finalista en los Premios Mondragon: entre los 10 mejores de unos 400 trabajos al mejor proyecto en transformación digital.
 
 ### Stack
 
