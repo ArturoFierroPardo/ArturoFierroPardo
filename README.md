@@ -52,13 +52,12 @@
 <p>
   <img src="https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/SQL-30363D?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Java-30363D?style=flat-square&logo=openjdk&logoColor=F89820" />
   <img src="https://img.shields.io/badge/PyTorch-30363D?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
   <img src="https://img.shields.io/badge/Hugging%20Face-30363D?style=flat-square&logo=huggingface&logoColor=FFD21E" />
   <img src="https://img.shields.io/badge/llama.cpp-30363D?style=flat-square&logo=meta&logoColor=0467DF" />
   <img src="https://img.shields.io/badge/Flutter-30363D?style=flat-square&logo=flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/AWS-30363D?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=FCC624" />
 </p>
 
 ### 📜 Trayectoria
@@ -120,13 +119,12 @@
 <p>
   <img src="https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/SQL-30363D?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Java-30363D?style=flat-square&logo=openjdk&logoColor=F89820" />
   <img src="https://img.shields.io/badge/PyTorch-30363D?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
   <img src="https://img.shields.io/badge/Hugging%20Face-30363D?style=flat-square&logo=huggingface&logoColor=FFD21E" />
   <img src="https://img.shields.io/badge/llama.cpp-30363D?style=flat-square&logo=meta&logoColor=0467DF" />
   <img src="https://img.shields.io/badge/Flutter-30363D?style=flat-square&logo=flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/AWS-30363D?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=FCC624" />
 </p>
 
 ### 📜 Background
