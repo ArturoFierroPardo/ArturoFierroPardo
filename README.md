@@ -1,8 +1,7 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/arturo-fierro-pardo/"><img src="https://img.shields.io/badge/LinkedIn-arturo--fierro--pardo-2F81F7?style=flat-square&labelColor=0D1117&logo=linkedin&logoColor=white" /></a>
-  <a href="https://huggingface.co/arturofierrop"><img src="https://img.shields.io/badge/Hugging%20Face-arturofierrop-E3B341?style=flat-square&labelColor=0D1117&logo=huggingface&logoColor=E3B341" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.telecoslm.app"><img src="https://img.shields.io/badge/Google%20Play-Teleco%20SLM-3DDC84?style=flat-square&labelColor=0D1117&logo=google-play&logoColor=3DDC84" /></a>
-  <a href="mailto:arturofierrop25@gmail.com"><img src="https://img.shields.io/badge/Email-arturofierrop25-8B949E?style=flat-square&labelColor=0D1117&logo=gmail&logoColor=8B949E" /></a>
+  <a href="https://www.linkedin.com/in/arturo-fierro-pardo/"><img src="https://img.shields.io/badge/LinkedIn-arturo--fierro--pardo-2F81F7?style=flat-square&labelColor=30363D&logo=linkedin&logoColor=white" /></a>
+  <a href="https://huggingface.co/arturofierrop"><img src="https://img.shields.io/badge/Hugging%20Face-arturofierrop-E3B341?style=flat-square&labelColor=30363D&logo=huggingface&logoColor=E3B341" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.telecoslm.app"><img src="https://img.shields.io/badge/Google%20Play-Teleco%20SLM-3DDC84?style=flat-square&labelColor=30363D&logo=google-play&logoColor=3DDC84" /></a>
 </p>
 
 <!-- ══════════════════════════ ESPAÑOL ══════════════════════════ -->
@@ -28,9 +27,9 @@
 
 *Un modelo de lenguaje de dominio específico que funciona sin conexión en un móvil.*
 
-<a href="https://github.com/ArturoFierroPardo/TelecoSLM"><img src="https://img.shields.io/badge/Código-GitHub-E6EDF3?style=flat-square&labelColor=0D1117&logo=github" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.telecoslm.app"><img src="https://img.shields.io/badge/App-Google%20Play-3DDC84?style=flat-square&labelColor=0D1117&logo=google-play&logoColor=3DDC84" /></a>
-<a href="https://huggingface.co/arturofierrop/qwen-3-1.7B-teleco-slm-GGUF"><img src="https://img.shields.io/badge/Modelo-Qwen3%201.7B%20GGUF-E3B341?style=flat-square&labelColor=0D1117&logo=huggingface&logoColor=E3B341" /></a>
+<a href="https://github.com/ArturoFierroPardo/TelecoSLM"><img src="https://img.shields.io/badge/Código-GitHub-E6EDF3?style=flat-square&labelColor=30363D&logo=github" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.telecoslm.app"><img src="https://img.shields.io/badge/App-Google%20Play-3DDC84?style=flat-square&labelColor=30363D&logo=google-play&logoColor=3DDC84" /></a>
+<a href="https://huggingface.co/arturofierrop/qwen-3-1.7B-teleco-slm-GGUF"><img src="https://img.shields.io/badge/Modelo-Qwen3%201.7B%20GGUF-E3B341?style=flat-square&labelColor=30363D&logo=huggingface&logoColor=E3B341" /></a>
 
 |  | Resultado |
 |---|---|
@@ -51,15 +50,15 @@
 ### 🧰 Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E" />
-  <img src="https://img.shields.io/badge/llama.cpp-0D1117?style=flat-square&logo=meta&logoColor=0467DF" />
-  <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/SQL-30363D?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/PyTorch-30363D?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-30363D?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/llama.cpp-30363D?style=flat-square&logo=meta&logoColor=0467DF" />
+  <img src="https://img.shields.io/badge/Flutter-30363D?style=flat-square&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/AWS-30363D?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=FCC624" />
 </p>
 
 ### 📜 Trayectoria
@@ -90,15 +89,15 @@
 - 🎓 **BSc in Telecommunication Systems Engineering** — Universidad CEU San Pablo, with an Erasmus semester at Politecnico di Milano.
 - 🏦 Currently on the **MSc in Financial Technologies** at ICAI (Universidad Pontificia Comillas), working at the intersection of applied AI and finance.
 - 🧠 **Currently:** fine-tuning and benchmarking small language models · data pipelines on AWS · preparing AWS Certified Data Engineer.
-- 💼 Former **Technology Consulting intern at PwC Spain**: technology due diligence for a financial institution, document automation, and an AI adoption plan for a multinational group.
+- 💼 Previously a **Technology Consulting intern at PwC Spain**: technology due diligence for a financial institution, document automation, and an AI adoption plan for a multinational group.
 
 ### 🛰️ TelecoSLM
 
 *A domain-specific language model that runs offline on a phone.*
 
-<a href="https://github.com/ArturoFierroPardo/TelecoSLM"><img src="https://img.shields.io/badge/Code-GitHub-E6EDF3?style=flat-square&labelColor=0D1117&logo=github" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.telecoslm.app"><img src="https://img.shields.io/badge/App-Google%20Play-3DDC84?style=flat-square&labelColor=0D1117&logo=google-play&logoColor=3DDC84" /></a>
-<a href="https://huggingface.co/arturofierrop/qwen-3-1.7B-teleco-slm-GGUF"><img src="https://img.shields.io/badge/Model-Qwen3%201.7B%20GGUF-E3B341?style=flat-square&labelColor=0D1117&logo=huggingface&logoColor=E3B341" /></a>
+<a href="https://github.com/ArturoFierroPardo/TelecoSLM"><img src="https://img.shields.io/badge/Code-GitHub-E6EDF3?style=flat-square&labelColor=30363D&logo=github" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.telecoslm.app"><img src="https://img.shields.io/badge/App-Google%20Play-3DDC84?style=flat-square&labelColor=30363D&logo=google-play&logoColor=3DDC84" /></a>
+<a href="https://huggingface.co/arturofierrop/qwen-3-1.7B-teleco-slm-GGUF"><img src="https://img.shields.io/badge/Model-Qwen3%201.7B%20GGUF-E3B341?style=flat-square&labelColor=30363D&logo=huggingface&logoColor=E3B341" /></a>
 
 |  | Result |
 |---|---|
@@ -119,15 +118,15 @@
 ### 🧰 Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E" />
-  <img src="https://img.shields.io/badge/llama.cpp-0D1117?style=flat-square&logo=meta&logoColor=0467DF" />
-  <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/SQL-30363D?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/PyTorch-30363D?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-30363D?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/llama.cpp-30363D?style=flat-square&logo=meta&logoColor=0467DF" />
+  <img src="https://img.shields.io/badge/Flutter-30363D?style=flat-square&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/AWS-30363D?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=FCC624" />
 </p>
 
 ### 📜 Background
@@ -148,17 +147,17 @@
 <br />
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArturoFierroPardo&theme=github_dark" width="92%" />
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="92%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArturoFierroPardo&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArturoFierroPardo&theme=github_dark" width="45%" />
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="45%" />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArturoFierroPardo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=E3B341&text_color=8B949E" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoFierroPardo&layout=compact&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=8B949E" width="45%" />
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" width="45%" />
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="45%" />
 </p>
 
 </details>
