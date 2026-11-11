@@ -9,7 +9,7 @@ Telecommunications engineer who builds and evaluates language models. Currently 
 
 ### TelecoSLM — a domain-specific language model that runs offline on a phone
 
-[![TelecoSLM](https://img.shields.io/badge/TelecoSLM-repository-181717?logo=github&logoColor=white)](https://github.com/ArturoFierroPardo/TelecoSLM) · [![Google Play](https://img.shields.io/badge/Google%20Play-Teleco%20SLM-success?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.telecoslm.app) · [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Qwen3%201.7B%20Teleco%20GGUF-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/arturofierrop/qwen-3-1.7B-teleco-slm-GGUF)
+[![TelecoSLM](https://img.shields.io/badge/TelecoSLM-Repository-181717?logo=github&logoColor=white)](https://github.com/ArturoFierroPardo/TelecoSLM) · [![Google Play](https://img.shields.io/badge/Google%20Play-Teleco%20SLM-success?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.telecoslm.app) · [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Qwen3%201.7B%20Teleco%20GGUF-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/arturofierrop/qwen-3-1.7B-teleco-slm-GGUF)
 
 
 - **Fine-tuning:** LoRA on Qwen 3 1.7B over a purpose-built Spanish telecoms corpus — ROUGE-L from 0.159 to 0.286, BERTScore 0.895.
