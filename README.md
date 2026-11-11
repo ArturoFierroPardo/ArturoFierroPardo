@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/34691960/README.2.md)
 # Arturo Fierro Pardo
 
 Telecommunications engineer who builds and evaluates language models. Currently on the MSc in Financial Technologies at ICAI (Universidad Pontificia Comillas), working at the intersection of applied AI and finance.
