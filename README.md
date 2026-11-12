@@ -156,7 +156,7 @@
 </p>
 
 <p align="center">
-  <img src="metrics/lenguajes.svg" width="45%" />
+  <img src="metrics/lenguajes.svg" width="92%" />
 </p>
 
 </details>
