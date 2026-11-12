@@ -41,8 +41,6 @@
 
 > Trabajo de Fin de Grado, **10/10 con Matrícula de Honor**. Finalista en los **Premios Mondragon**: entre los 10 mejores de unos 400 trabajos al mejor proyecto en transformación digital.
 
-📄 La investigación completa —construcción del corpus, metodología de fine-tuning, evaluación comparativa y análisis estadístico— está en la **[memoria del TFG](https://github.com/ArturoFierroPardo/telecoslm/blob/main/docs/Memoria_TFG.pdf)**.
-
 ### 🧪 En qué ando
 
 | Proyecto | Qué es | Stack |
@@ -111,8 +109,6 @@
 
 > Final Degree Project, graded **10/10 with distinction**. Finalist at the **Mondragon Awards** — top 10 of around 400 entries for best final project in digital transformation.
 
-📄 The full research — corpus construction, fine-tuning methodology, benchmarking and statistical analysis — is in the **[thesis (PDF)](https://github.com/ArturoFierroPardo/telecoslm/blob/main/docs/Memoria_TFG.pdf)**.
-
 ### 🧪 What I'm working on
 
 | Project | What it is | Stack |
@@ -160,7 +156,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoFierroPardo&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=8B949E" width="45%" />
+  <img src="metrics/lenguajes.svg" width="45%" />
 </p>
 
 </details>
