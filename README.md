@@ -18,10 +18,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=21&duration=3400&pause=900&color=2F81F7&center=true&vCenter=true&width=680&height=46&lines=fine-tuning+y+evaluaci%C3%B3n+de+modelos+de+lenguaje;pipelines+de+datos+en+AWS;donde+la+ingenier%C3%ADa+se+cruza+con+las+finanzas" alt="" />
 </p>
 
-- 🎓 **Ingeniería de Sistemas de Telecomunicación** — Universidad CEU San Pablo, con un semestre Erasmus en el Politecnico di Milano.
-- 🏦 Cursando el **Máster en Tecnologías Financieras** en ICAI (Universidad Pontificia Comillas), en la intersección entre IA aplicada y finanzas.
-- 🧠 **Ahora mismo:** fine-tuning y evaluación comparativa de modelos de lenguaje pequeños · pipelines de datos en AWS · preparando la certificación AWS Certified Data Engineer.
-- 💼 Pasé por **Technology Consulting en PwC España**: due diligence tecnológica de una entidad financiera, automatización documental y plan de adopción de IA para un grupo multinacional.
+- **Ingeniería de Sistemas de Telecomunicación** — Universidad CEU San Pablo, con un semestre Erasmus en el Politecnico di Milano.
+- Cursando el **Máster en Tecnologías Financieras** en ICAI (Universidad Pontificia Comillas), en la intersección entre IA aplicada y finanzas.
+- **Ahora mismo:** fine-tuning y evaluación comparativa de modelos de lenguaje pequeños · pipelines de datos en AWS · preparando la certificación AWS Certified Data Engineer.
+- Pasé por **Technology Consulting en PwC España**: due diligence tecnológica de una entidad financiera, automatización documental y plan de adopción de IA para un grupo multinacional.
 
 ### 🛰️ TelecoSLM
 
@@ -86,10 +86,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=21&duration=3400&pause=900&color=2F81F7&center=true&vCenter=true&width=680&height=46&lines=fine-tuning+and+benchmarking+language+models;data+pipelines+on+AWS;where+engineering+meets+finance" alt="" />
 </p>
 
-- 🎓 **BSc in Telecommunication Systems Engineering** — Universidad CEU San Pablo, with an Erasmus semester at Politecnico di Milano.
-- 🏦 Currently on the **MSc in Financial Technologies** at ICAI (Universidad Pontificia Comillas), working at the intersection of applied AI and finance.
-- 🧠 **Currently:** fine-tuning and benchmarking small language models · data pipelines on AWS · preparing AWS Certified Data Engineer.
-- 💼 Previously a **Technology Consulting intern at PwC Spain**: technology due diligence for a financial institution, document automation, and an AI adoption plan for a multinational group.
+- **BSc in Telecommunication Systems Engineering** — Universidad CEU San Pablo, with an Erasmus semester at Politecnico di Milano.
+- Currently on the **MSc in Financial Technologies** at ICAI (Universidad Pontificia Comillas), working at the intersection of applied AI and finance.
+- **Currently:** fine-tuning and benchmarking small language models · data pipelines on AWS · preparing AWS Certified Data Engineer.
+- Previously a **Technology Consulting intern at PwC Spain**: technology due diligence for a financial institution, document automation, and an AI adoption plan for a multinational group.
 
 ### 🛰️ TelecoSLM
 
