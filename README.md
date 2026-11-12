@@ -30,6 +30,7 @@
 <a href="https://github.com/ArturoFierroPardo/TelecoSLM"><img src="https://img.shields.io/badge/Código-GitHub-E6EDF3?style=flat-square&labelColor=30363D&logo=github" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.telecoslm.app"><img src="https://img.shields.io/badge/App-Google%20Play-3DDC84?style=flat-square&labelColor=30363D&logo=google-play&logoColor=3DDC84" /></a>
 <a href="https://huggingface.co/arturofierrop/qwen-3-1.7B-teleco-slm-GGUF"><img src="https://img.shields.io/badge/Modelo-Qwen3%201.7B%20GGUF-E3B341?style=flat-square&labelColor=30363D&logo=huggingface&logoColor=E3B341" /></a>
+<a href="https://github.com/ArturoFierroPardo/telecoslm/blob/main/docs/Memoria_TFG.pdf"><img src="https://img.shields.io/badge/Memoria-PDF%20completo-F40F02?style=flat-square&labelColor=30363D&logo=adobeacrobatreader&logoColor=F40F02" /></a>
 
 |  | Resultado |
 |---|---|
@@ -39,6 +40,8 @@
 | **Validación** | Beta de 14 días con 12 usuarios — entre **4,1 y 4,7 sobre 5**, y un **88 %** lo recomendaría |
 
 > Trabajo de Fin de Grado, **10/10 con Matrícula de Honor**. Finalista en los **Premios Mondragon**: entre los 10 mejores de unos 400 trabajos al mejor proyecto en transformación digital.
+
+📄 La investigación completa —construcción del corpus, metodología de fine-tuning, evaluación comparativa y análisis estadístico— está en la **[memoria del TFG](https://github.com/ArturoFierroPardo/telecoslm/blob/main/docs/Memoria_TFG.pdf)**.
 
 ### 🧪 En qué ando
 
@@ -97,6 +100,7 @@
 <a href="https://github.com/ArturoFierroPardo/TelecoSLM"><img src="https://img.shields.io/badge/Code-GitHub-E6EDF3?style=flat-square&labelColor=30363D&logo=github" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.telecoslm.app"><img src="https://img.shields.io/badge/App-Google%20Play-3DDC84?style=flat-square&labelColor=30363D&logo=google-play&logoColor=3DDC84" /></a>
 <a href="https://huggingface.co/arturofierrop/qwen-3-1.7B-teleco-slm-GGUF"><img src="https://img.shields.io/badge/Model-Qwen3%201.7B%20GGUF-E3B341?style=flat-square&labelColor=30363D&logo=huggingface&logoColor=E3B341" /></a>
+<a href="https://github.com/ArturoFierroPardo/telecoslm/blob/main/docs/Memoria_TFG.pdf"><img src="https://img.shields.io/badge/Thesis-Full%20PDF-F40F02?style=flat-square&labelColor=30363D&logo=adobeacrobatreader&logoColor=F40F02" /></a>
 
 |  | Result |
 |---|---|
@@ -106,6 +110,8 @@
 | **Validated** | 14-day beta with 12 users — **4.1 to 4.7 out of 5**, **88 %** would recommend it |
 
 > Final Degree Project, graded **10/10 with distinction**. Finalist at the **Mondragon Awards** — top 10 of around 400 entries for best final project in digital transformation.
+
+📄 The full research — corpus construction, fine-tuning methodology, benchmarking and statistical analysis — is in the **[thesis (PDF)](https://github.com/ArturoFierroPardo/telecoslm/blob/main/docs/Memoria_TFG.pdf)**.
 
 ### 🧪 What I'm working on
 
@@ -151,6 +157,10 @@
 <p align="center">
   <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="45%" />
   <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoFierroPardo&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=8B949E" width="45%" />
 </p>
 
 </details>
