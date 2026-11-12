@@ -26,7 +26,8 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: >-
             html, css, tex, dockerfile, makefile, cmake, shell,
-            batchfile, powershell, gradle, kotlin
+            batchfile, powershell, gradle, kotlin, c++, c, objective-c,
+            objective-c++, swift
 
           # Si la tarjeta sale con fondo blanco, descomenta esta linea:
           # config_theme: dark
