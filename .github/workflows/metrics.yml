@@ -1,0 +1,32 @@
+name: Metrics - lenguajes
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Reutiliza el mismo token que ya creaste para las otras tarjetas
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics/lenguajes.svg
+          base: ""
+          config_timezone: Europe/Madrid
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 1%
+          plugin_languages_details: percentage
+          plugin_languages_ignored: >-
+            html, css, tex, dockerfile, makefile, cmake, shell,
+            batchfile, powershell, gradle, kotlin
+
+          # Si la tarjeta sale con fondo blanco, descomenta esta linea:
+          # config_theme: dark
