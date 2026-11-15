@@ -20,7 +20,7 @@
 
 - **Ingeniería de Sistemas de Telecomunicación** — Universidad CEU San Pablo, con un semestre Erasmus en el Politecnico di Milano.
 - Cursando el **Máster en Tecnologías Financieras** en ICAI (Universidad Pontificia Comillas), en la intersección entre IA aplicada y finanzas.
-- **Ahora mismo:** fine-tuning y evaluación comparativa de modelos de lenguaje pequeños · pipelines de datos en AWS · preparando la certificación AWS Certified Data Engineer.
+- **Ahora mismo:** un radar de crédito y valoración de las empresas del IBEX sobre AWS · preparando la certificación AWS Certified Data Engineer.
 - Pasé por **Technology Consulting en PwC España**: due diligence tecnológica de una entidad financiera, automatización documental y plan de adopción de IA para un grupo multinacional.
 
 ### 🛰️ TelecoSLM
@@ -41,12 +41,12 @@
 
 > Trabajo de Fin de Grado, **10/10 con Matrícula de Honor**. Finalista en los **Premios Mondragon**: entre los 10 mejores de unos 400 trabajos al mejor proyecto en transformación digital.
 
-### 🧪 En qué ando
+### 🧪 Más proyectos
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| **Monitor de la banca europea** | Pipeline de datos end-to-end en AWS, ingesta diaria y capa analítica | `AWS` `Python` `SQL` |
-| **TelecoSLM** | Modelo de dominio específico, cuantizado y publicado | `PyTorch` `LoRA` `llama.cpp` `Flutter` |
+| **Radar de crédito y valoración del IBEX** · *en curso* | Pipeline de datos end-to-end en AWS sobre las empresas cotizadas del IBEX, con ratios de crédito y de bolsa | `AWS` `Python` `SQL` |
+| **[Avatar: Battle for Freedom](https://github.com/ArturoFierroPardo/avatar-battle-for-freedom)** | Juego de estrategia por turnos en consola, con 102 pruebas, integración continua y [documentación publicada](https://arturofierropardo.github.io/avatar-battle-for-freedom/) | `Java` `Maven` `JUnit 5` `GitHub Actions` |
 
 ### 🧰 Stack
 
@@ -88,7 +88,7 @@
 
 - **BSc in Telecommunication Systems Engineering** — Universidad CEU San Pablo, with an Erasmus semester at Politecnico di Milano.
 - Currently on the **MSc in Financial Technologies** at ICAI (Universidad Pontificia Comillas), working at the intersection of applied AI and finance.
-- **Currently:** fine-tuning and benchmarking small language models · data pipelines on AWS · preparing AWS Certified Data Engineer.
+- **Currently:** a credit and valuation radar for IBEX-listed companies on AWS · preparing AWS Certified Data Engineer.
 - Previously a **Technology Consulting intern at PwC Spain**: technology due diligence for a financial institution, document automation, and an AI adoption plan for a multinational group.
 
 ### 🛰️ TelecoSLM
@@ -109,12 +109,12 @@
 
 > Final Degree Project, graded **10/10 with distinction**. Finalist at the **Mondragon Awards** — top 10 of around 400 entries for best final project in digital transformation.
 
-### 🧪 What I'm working on
+### 🧪 More projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| **European banking monitor** | End-to-end data pipeline on AWS, daily ingestion and analytics layer | `AWS` `Python` `SQL` |
-| **TelecoSLM** | Domain-specific model, quantised and shipped | `PyTorch` `LoRA` `llama.cpp` `Flutter` |
+| **IBEX credit and valuation radar** · *in progress* | End-to-end data pipeline on AWS covering IBEX-listed companies, with credit and market ratios | `AWS` `Python` `SQL` |
+| **[Avatar: Battle for Freedom](https://github.com/ArturoFierroPardo/avatar-battle-for-freedom)** | Turn-based strategy game for the console, with 102 tests, continuous integration and [published documentation](https://arturofierropardo.github.io/avatar-battle-for-freedom/) | `Java` `Maven` `JUnit 5` `GitHub Actions` |
 
 ### 🧰 Stack
 
