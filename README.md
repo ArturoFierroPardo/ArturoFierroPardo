@@ -11,7 +11,7 @@
 <br />
 
 <p align="center">
-  <img src="assets/header-es.svg" alt="Arturo Fierro Pardo" width="100%" />
+  <img src="assets/header-es.svg?v=2" alt="Arturo Fierro Pardo" width="100%" />
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@
 <br />
 
 <p align="center">
-  <img src="assets/header-en.svg" alt="Arturo Fierro Pardo" width="100%" />
+  <img src="assets/header-en.svg?v=2" alt="Arturo Fierro Pardo" width="100%" />
 </p>
 
 <p align="center">
